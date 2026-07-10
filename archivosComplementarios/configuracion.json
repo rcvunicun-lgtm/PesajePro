@@ -1,0 +1,42 @@
+{
+  "balanza": {
+    "valorOriginal": "MT_1229520536",
+    "valorModificado": "MT_1229520536"
+  },
+  "usuario": {
+    "valorOriginal": "",
+    "valorModificado": ""
+  },
+  "muestra": {
+    "valorOriginal": "",
+    "valorModificado": ""
+  },
+  "capsula": {
+    "valorOriginal": "cápsula 1",
+    "valorModificado": "cápsula 1"
+  },
+  "tipo": {
+    "valorOriginal": "Montaje",
+    "valorModificado": "Montaje"
+  },
+  "ensayo": {
+    "valorOriginal": "",
+    "valorModificado": ""
+  },
+  "mContacto": {
+    "valorOriginal": "",
+    "valorModificado": ""
+  },
+  "identificacion": {
+    "valorOriginal": "Blanco Volumen 1",
+    "valorModificado": "Blanco Volumen 1"
+  },
+  "areaVolumen": {
+    "valorOriginal": "0.6",
+    "valorModificado": "0.6"
+  },
+  "temperatura": {
+    "valorOriginal": "",
+    "valorModificado": ""
+  }
+}

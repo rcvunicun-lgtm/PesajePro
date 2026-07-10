@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="src/lib/jSerialComm-2.11.0/jSerialComm-2.11.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/src.zip"/>
+	<classpathentry kind="lib" path="src/lib/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="src/lib/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="src/lib/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="src/lib/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="src/lib/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="src/lib/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="src/lib/Complemento pureJavaComm-1.0.4/purejavacomm-1.0.4.jar"/>
+	<classpathentry kind="lib" path="src/lib/complemento gson-2.12.1.jar/gson-2.12.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/jacob-1.21/jacob.jar"/>
+	<classpathentry kind="lib" path="src/lib/Complemento Java apache-poi-src-5.4.1-2025/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="src/lib/Complemento Java apache-poi-src-5.4.1-2025/poi-5.4.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/Complemento Java apache-poi-src-5.4.1-2025/poi-ooxml-5.4.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/Complemento Java apache-poi-src-5.4.1-2025/poi-ooxml-lite-5.4.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/Complemento Java apache-poi-src-5.4.1-2025/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/Complemento Java apache-poi-src-5.4.1-2025/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="src/lib/Complemento Java apache-poi-src-5.4.1-2025/commons-io-2.18.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/Complemento Java apache-poi-src-5.4.1-2025/commons-compress-1.27.1.jar"/>
+	<classpathentry kind="lib" path="src/lib/Complemento Java apache-poi-src-5.4.1-2025/log4j-api-2.20.0.jar"/>
+	<classpathentry kind="lib" path="src/lib/Complemento Java apache-poi-src-5.4.1-2025/log4j-core-2.20.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
